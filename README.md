@@ -2,6 +2,9 @@
 Mandatory project of the [Reliable and Trustworthy Artificial Intelligence](https://www.sri.inf.ethz.ch/teaching/rtai22)
 (RTAI) course at ETH. Thought by [Prof. Dr. Martin Vechev](https://www.sri.inf.ethz.ch/people/martin).
 
+
+The template code for the project can be downloaded here: [link](https://files.sri.inf.ethz.ch/website/teaching/reliableai2022/materials/project/project_release.zip).
+
 ## Task
 
 This project implements a DeepPoly verifier for fully connected, convolutional, and residual neural networks.
